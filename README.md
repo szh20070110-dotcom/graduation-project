@@ -121,11 +121,11 @@ npm run test:watch
 
 | 页面 | 截图 |
 | --- | --- |
-| 登录页 | `docs/screenshots/01-login.png` |
-| 学生端查找座位 | `docs/screenshots/02-student-home.png` |
-| 我的预约与信用 | `docs/screenshots/03-my-reservations.png` |
-| 管理端运营概览 | `docs/screenshots/04-admin-dashboard.png` |
-| 预约记录管理 | `docs/screenshots/05-admin-reservations.png` |
+| 登录页 | `resources/01-login.png` |
+| 学生端查找座位 | `resources/02-student-home.png` |
+| 我的预约与信用 | `resources/03-my-reservations.png` |
+| 管理端运营概览 | `resources/04-admin-dashboard.png` |
+| 预约记录管理 | `resources/05-admin-reservations.png` |
 
 重新生成截图（需先构建并启动预览）：
 
