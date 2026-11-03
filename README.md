@@ -182,3 +182,12 @@ node scripts/capture-screenshots.mjs
 ## License
 
 本项目为毕业设计/教学演示用途，可自由修改与复用。示例数据中的姓名、学号均为虚构。
+## 答辩与协作材料
+
+| 文件 | 说明 |
+|---|---|
+| `docs/06-毕业答辩.pptx` | 13 页答辩演示文稿（选题、架构、领域模型、流程、测试、Agent Team 协作、不足与改进） |
+| `docs/07-AgentTeam-协作证据.md` | 团队角色分工、阶段产物对照、真实运行记录、评审返工记录 |
+| `docs/evidence/test-run.log` | 单元测试原始输出（97 用例全绿） |
+| `docs/evidence/build.log` | Vite 构建原始输出 |
+| `docs/evidence/coverage-summary.json` | 覆盖率原始数据（语句 99.3%、分支 97.9%） |
